@@ -11,7 +11,7 @@ The information includes:
 • How To Install
 $ pkg install -y git
 
-$ git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig
+$ git clone https://github.com/FBITactical/tactical-osi-instagram-tool.git && cd tactical-osi-instagram-tool
 
 $ chmod +x install.sh && ./install.sh
 
